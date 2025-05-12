@@ -21,16 +21,16 @@ Creates folders if they do not already exist.
 
 🛠️ Setup Instructions
 
-You can run it in any local Python environment, and copy the code to any file you wish. Or
+You can run it in any local Python environment, and copy the code to any file you wish and run it. Or
 
-Clone the repository:
+1. Clone the repository:
 
 git clone https://github.com/manojsaiannapareddy/Download-Folder-Organizer.git
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 
 cd Download-Folder-Organizer
 
-Run the script:
+3. Run the script:
 
 python Organizer.py
