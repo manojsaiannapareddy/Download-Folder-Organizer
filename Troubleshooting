@@ -1,0 +1,15 @@
+❓ Troubleshooting
+
+1. Permission Denied Error:
+
+    Ensure you have the right permissions:
+
+       sudo chmod +x download_folder_organizer.py
+
+2. File Not Found Error:
+
+    Check if the file exists in the Downloads folder.
+
+3. New Extensions Not Categorized:
+
+    Add new extensions in the FILE_CATEGORIES dictionary inside download_folder_organizer.py.
