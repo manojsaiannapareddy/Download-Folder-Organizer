@@ -34,3 +34,9 @@ cd Download-Folder-Organizer
 3. Run the script:
 
 python Organizer.py
+
+## 🎯 Before and After
+
+| **Before**            | **After**           |
+| --------------------- | ------------------- |
+| ![Before](before.png) | ![After](after.png) |
