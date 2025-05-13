@@ -40,3 +40,5 @@ You can run it in any local Python environment, and copy the code to any file yo
 | **Before**            | **After**           |
 | --------------------- | ------------------- |
 | ![Before](before.png) | ![After](after.png) |
+
+## 🌟 Enjoy a clutter-free Downloads folder!
